@@ -3259,3 +3259,9 @@ Villager Trade Enabled: true
 [25Aug2024 18:49:57.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1    [Lead Hammer] to Mobyius
 [25Aug2024 18:52:13.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
 [25Aug2024 18:58:05.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Defence is the Best Defence]
+[25Aug2024 19:06:21.374] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[25Aug2024 19:06:53.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 19:06:56.429] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 2 recipes!
+[25Aug2024 19:07:48.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has reached the goal [Hometown]
+[25Aug2024 19:12:55.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]
+[25Aug2024 19:13:21.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
