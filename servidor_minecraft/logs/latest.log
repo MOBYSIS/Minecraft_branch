@@ -3211,3 +3211,5 @@ Villager Trade Enabled: true
 [25Aug2024 16:30:34.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
 [25Aug2024 16:31:32.147] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=613, y=68, z=1127} of type fisherman
 [25Aug2024 16:38:26.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Successfully filled 240 blocks]
+[25Aug2024 16:45:25.271] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[25Aug2024 16:45:34.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
