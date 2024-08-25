@@ -3287,3 +3287,6 @@ Villager Trade Enabled: true
 [25Aug2024 20:10:43.880] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
 [25Aug2024 20:12:53.688] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=680, y=125, z=1165} of type lumberjack
 [25Aug2024 20:15:39.524] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[25Aug2024 20:17:46.247] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=530, y=123, z=1183} of type plantation
+[25Aug2024 20:20:29.872] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=683, y=123, z=1186} of type cowboy
+[25Aug2024 20:21:50.719] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=650, y=126, z=1252} of type chickenherder
