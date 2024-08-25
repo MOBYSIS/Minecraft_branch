@@ -3180,3 +3180,7 @@ Villager Trade Enabled: true
 [25Aug2024 15:09:45.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: olyverr lost connection: Timed out
 [25Aug2024 15:09:45.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr left the game
 [25Aug2024 15:09:45.472] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Aug2024 15:17:59.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the weather to clear]
+[25Aug2024 15:23:09.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the weather to clear]
+[25Aug2024 15:23:17.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Luscious Surroundings]
+[25Aug2024 15:23:54.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Gave 21    [White Wool] to Mobyius]
