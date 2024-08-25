@@ -3177,3 +3177,6 @@ Villager Trade Enabled: true
 [25Aug2024 14:57:04.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
 [25Aug2024 14:58:53.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
 [25Aug2024 15:03:57.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
+[25Aug2024 15:09:45.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: olyverr lost connection: Timed out
+[25Aug2024 15:09:45.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr left the game
+[25Aug2024 15:09:45.472] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
