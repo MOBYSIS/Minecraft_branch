@@ -3231,3 +3231,4 @@ Villager Trade Enabled: true
 [25Aug2024 17:19:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius joined the game
 [25Aug2024 17:19:52.496] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mobyius
 [25Aug2024 17:19:52.526] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4b2eef55
+[25Aug2024 17:27:40.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
