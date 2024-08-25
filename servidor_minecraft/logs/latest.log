@@ -3118,3 +3118,9 @@ Villager Trade Enabled: true
 [25Aug2024 13:40:31.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [The Builder Begins]
 [25Aug2024 13:41:40.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Fulfillment Comes Cheap]
 [25Aug2024 13:42:01.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 13:42:21.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
+[25Aug2024 13:47:52.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 13:47:55.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the weather to clear]
+[25Aug2024 13:48:51.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Ice Bucket Challenge]
+[25Aug2024 13:50:25.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr was slain by Zombie
+[25Aug2024 13:50:27.185] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
