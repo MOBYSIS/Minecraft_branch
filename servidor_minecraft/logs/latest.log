@@ -3154,3 +3154,10 @@ Villager Trade Enabled: true
 [25Aug2024 14:10:55.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the weather to clear]
 [25Aug2024 14:12:24.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set own game mode to Spectator Mode]
 [25Aug2024 14:12:53.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set own game mode to Survival Mode]
+[25Aug2024 14:13:25.252] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[25Aug2024 14:15:31.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr was burnt to a crisp whilst fighting Mimic
+[25Aug2024 14:15:35.224] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[25Aug2024 14:15:50.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Chest Slayer]
+[25Aug2024 14:16:03.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the weather to clear]
+[25Aug2024 14:16:13.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: The difficulty has been set to Peaceful]
+[25Aug2024 14:23:24.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Sneak 100]
