@@ -3145,3 +3145,12 @@ Villager Trade Enabled: true
 [25Aug2024 14:01:55.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=613, y=118, z=1200} BlockPos{x=616, y=117, z=1200}
 [25Aug2024 14:02:12.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has reached the goal [Build a Builder Building]
 [25Aug2024 14:02:12.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has reached the goal [Build a Builder Building]
+[25Aug2024 14:02:52.351] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=585, y=117, z=1190} of type residence
+[25Aug2024 14:04:00.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 14:04:13.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has completed the challenge [Centennial]
+[25Aug2024 14:04:40.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the weather to clear]
+[25Aug2024 14:07:07.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Teleported Mobyius to olyverr]
+[25Aug2024 14:10:51.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 14:10:55.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the weather to clear]
+[25Aug2024 14:12:24.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set own game mode to Spectator Mode]
+[25Aug2024 14:12:53.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set own game mode to Survival Mode]
