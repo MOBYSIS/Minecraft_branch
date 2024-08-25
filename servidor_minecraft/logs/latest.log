@@ -3359,3 +3359,4 @@ java.io.FileNotFoundException: null
 [25Aug2024 22:38:13.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius moved too quickly! 2.5841412312889247,3.7495678893504305,-9.155678456417036
 [25Aug2024 22:38:49.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
 [25Aug2024 22:39:48.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]
+[25Aug2024 22:59:16.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
