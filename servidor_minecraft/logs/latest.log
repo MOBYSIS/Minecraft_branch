@@ -3309,3 +3309,7 @@ java.io.FileNotFoundException: null
 [25Aug2024 20:34:35.521] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=670, y=120, z=1212} of type cook
 [25Aug2024 20:35:46.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Settlement]
 [25Aug2024 20:37:25.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [The Centerpiece]
+[25Aug2024 20:38:07.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 20:39:45.773] [Server thread/WARN] [minecolonies/]: AdjustSkillCitizenMessage citizenData is null
+[25Aug2024 20:39:46.024] [Server thread/WARN] [minecolonies/]: AdjustSkillCitizenMessage citizenData is null
+[25Aug2024 20:47:12.246] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=572, y=119, z=1216} of type guardtower
