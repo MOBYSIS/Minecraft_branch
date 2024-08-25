@@ -3240,3 +3240,10 @@ Villager Trade Enabled: true
 [25Aug2024 17:58:57.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
 [25Aug2024 18:04:36.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
 [25Aug2024 18:06:59.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has reached the goal [Level Up!]
+[25Aug2024 18:14:51.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]
+[25Aug2024 18:15:22.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
+[25Aug2024 18:15:30.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 18:19:58.879] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[25Aug2024 18:20:19.275] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[25Aug2024 18:21:01.292] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=637, y=118, z=1186} of type guardtower
+[25Aug2024 18:21:35.475] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
