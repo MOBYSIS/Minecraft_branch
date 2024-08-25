@@ -3184,3 +3184,18 @@ Villager Trade Enabled: true
 [25Aug2024 15:23:09.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the weather to clear]
 [25Aug2024 15:23:17.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Luscious Surroundings]
 [25Aug2024 15:23:54.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Gave 21    [White Wool] to Mobyius]
+[25Aug2024 15:26:35.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 15:28:26.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the weather to clear]
+[25Aug2024 15:30:58.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Any Shelter Will Do]
+[25Aug2024 15:33:06.842] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@35501f76
+[25Aug2024 15:33:06.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: olyverr[/127.86.91.218:50637] logged in with entity id 81364 at (683.6218148949634, 118.82402706755168, 1068.0448666436025)
+[25Aug2024 15:33:06.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to olyverr
+[25Aug2024 15:33:06.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to olyverr
+[25Aug2024 15:33:06.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to olyverr
+[25Aug2024 15:33:06.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to olyverr
+[25Aug2024 15:33:06.938] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to olyverr
+[25Aug2024 15:33:06.940] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to olyverr
+[25Aug2024 15:33:06.941] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to olyverr
+[25Aug2024 15:33:07.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr joined the game
+[25Aug2024 15:33:07.323] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: olyverr
+[25Aug2024 15:35:02.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
