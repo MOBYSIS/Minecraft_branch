@@ -3290,3 +3290,22 @@ Villager Trade Enabled: true
 [25Aug2024 20:17:46.247] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=530, y=123, z=1183} of type plantation
 [25Aug2024 20:20:29.872] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=683, y=123, z=1186} of type cowboy
 [25Aug2024 20:21:50.719] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=650, y=126, z=1252} of type chickenherder
+[25Aug2024 20:32:58.615] [Structurize IO Worker #0/ERROR] [structurize/]: Error loading blueprint: 
+java.io.FileNotFoundException: null
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at cpw.mods.niofs.union.UnionFileSystem.newReadByteChannel(UnionFileSystem.java:308) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.niofs.union.UnionFileSystemProvider.newByteChannel(UnionFileSystemProvider.java:149) ~[securejarhandler-2.1.4.jar:?]
+	at java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.nio.file.Files.readAllBytes(Files.java:3268) ~[?:?]
+	at com.ldtteam.structurize.storage.StructurePacks.getBlueprint(StructurePacks.java:419) ~[structurize-1.19.2-1.0.665-BETA.jar%23791!/:1.19.2-1.0.665-BETA]
+	at com.ldtteam.structurize.storage.StructurePacks.getBlueprint(StructurePacks.java:405) ~[structurize-1.19.2-1.0.665-BETA.jar%23791!/:1.19.2-1.0.665-BETA]
+	at com.ldtteam.structurize.storage.StructurePacks.getBlueprint(StructurePacks.java:244) ~[structurize-1.19.2-1.0.665-BETA.jar%23791!/:1.19.2-1.0.665-BETA]
+	at com.ldtteam.structurize.storage.StructurePacks.lambda$getBlueprintFuture$0(StructurePacks.java:140) ~[structurize-1.19.2-1.0.665-BETA.jar%23791!/:1.19.2-1.0.665-BETA]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[25Aug2024 20:34:35.521] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=670, y=120, z=1212} of type cook
+[25Aug2024 20:35:46.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Settlement]
+[25Aug2024 20:37:25.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [The Centerpiece]
