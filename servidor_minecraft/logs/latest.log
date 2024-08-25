@@ -3250,3 +3250,11 @@ Villager Trade Enabled: true
 [25Aug2024 18:32:59.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
 [25Aug2024 18:38:13.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
 [25Aug2024 18:42:39.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 18:43:48.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=571, y=123, z=1239} BlockPos{x=572, y=121, z=1237}
+[25Aug2024 18:43:48.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=571, y=123, z=1239} BlockPos{x=572, y=121, z=1237}
+[25Aug2024 18:44:22.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=574, y=127, z=1306} BlockPos{x=573, y=125, z=1308}
+[25Aug2024 18:44:22.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=574, y=127, z=1307} BlockPos{x=575, y=125, z=1309}
+[25Aug2024 18:44:27.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=569, y=128, z=1310} BlockPos{x=569, y=126, z=1310}
+[25Aug2024 18:44:28.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=571, y=126, z=1313} BlockPos{x=570, y=126, z=1313}
+[25Aug2024 18:49:57.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1    [Lead Hammer] to Mobyius
+[25Aug2024 18:52:13.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
