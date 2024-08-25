@@ -3063,3 +3063,43 @@ Villager Trade Enabled: true
 [25Aug2024 13:20:20.849] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mobyius
 [25Aug2024 13:20:21.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius joined the game
 [25Aug2024 13:20:21.413] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mobyius
+[25Aug2024 13:24:42.674] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/28d3676d-328a-319e-bd60-a237418acf9f.json: Don't know what tombstone:grave_dust is
+[25Aug2024 13:24:42.675] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/28d3676d-328a-319e-bd60-a237418acf9f.json: Don't know what tombstone:gift is
+[25Aug2024 13:24:42.686] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:adventure/root' in progress file ./world/advancements/28d3676d-328a-319e-bd60-a237418acf9f.json - it doesn't exist anymore?
+[25Aug2024 13:24:42.687] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:adventure/first_grave' in progress file ./world/advancements/28d3676d-328a-319e-bd60-a237418acf9f.json - it doesn't exist anymore?
+[25Aug2024 13:24:42.688] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:recipes/from_grave_key' in progress file ./world/advancements/28d3676d-328a-319e-bd60-a237418acf9f.json - it doesn't exist anymore?
+[25Aug2024 13:24:42.688] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:adventure/cancel_ghostly_shape' in progress file ./world/advancements/28d3676d-328a-319e-bd60-a237418acf9f.json - it doesn't exist anymore?
+[25Aug2024 13:24:42.688] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:recipes/from_grave_dust' in progress file ./world/advancements/28d3676d-328a-319e-bd60-a237418acf9f.json - it doesn't exist anymore?
+[25Aug2024 13:24:42.688] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:adventure/create_magic_scroll' in progress file ./world/advancements/28d3676d-328a-319e-bd60-a237418acf9f.json - it doesn't exist anymore?
+[25Aug2024 13:24:42.690] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:adventure/create_familiar_receptacle' in progress file ./world/advancements/28d3676d-328a-319e-bd60-a237418acf9f.json - it doesn't exist anymore?
+[25Aug2024 13:24:42.690] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:adventure/first_knowledge' in progress file ./world/advancements/28d3676d-328a-319e-bd60-a237418acf9f.json - it doesn't exist anymore?
+[25Aug2024 13:24:42.697] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4934ce6d
+[25Aug2024 13:24:42.736] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:ankh_of_pray removed now.
+[25Aug2024 13:24:42.736] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:grave_plate removed now.
+[25Aug2024 13:24:42.737] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:fishing_rod_of_misadventure removed now.
+[25Aug2024 13:24:42.738] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:bone_needle removed now.
+[25Aug2024 13:24:42.738] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:white_marble removed now.
+[25Aug2024 13:24:42.738] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:enchanted_grave_key removed now.
+[25Aug2024 13:24:42.739] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:impregnated_diamond removed now.
+[25Aug2024 13:24:42.739] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:dark_marble removed now.
+[25Aug2024 13:24:42.740] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:ankh_of_pray removed now.
+[25Aug2024 13:24:42.740] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:grave_plate removed now.
+[25Aug2024 13:24:42.740] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:fishing_rod_of_misadventure removed now.
+[25Aug2024 13:24:42.741] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:bone_needle removed now.
+[25Aug2024 13:24:42.741] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:white_marble removed now.
+[25Aug2024 13:24:42.742] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:enchanted_grave_key removed now.
+[25Aug2024 13:24:42.742] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:impregnated_diamond removed now.
+[25Aug2024 13:24:42.742] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:dark_marble removed now.
+[25Aug2024 13:24:42.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: olyverr[/127.86.91.218:45947] logged in with entity id 13675 at (597.9301679105486, 116.0, 1173.6235802444462)
+[25Aug2024 13:24:42.766] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to olyverr
+[25Aug2024 13:24:42.767] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to olyverr
+[25Aug2024 13:24:42.767] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to olyverr
+[25Aug2024 13:24:42.767] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to olyverr
+[25Aug2024 13:24:42.769] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to olyverr
+[25Aug2024 13:24:42.771] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to olyverr
+[25Aug2024 13:24:42.771] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to olyverr
+[25Aug2024 13:24:42.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr joined the game
+[25Aug2024 13:24:43.347] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: olyverr
+[25Aug2024 13:26:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
+[25Aug2024 13:28:35.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Monster Hunter]
+[25Aug2024 13:30:44.202] [Server thread/INFO] [minecolonies/]: New Colony Id: 1 by Mobyius
