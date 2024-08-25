@@ -3276,3 +3276,5 @@ Villager Trade Enabled: true
 [25Aug2024 19:40:38.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
 [25Aug2024 19:40:48.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]
 [25Aug2024 19:41:17.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 19:48:42.579] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[25Aug2024 19:52:20.332] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
