@@ -3343,3 +3343,12 @@ java.io.FileNotFoundException: null
 [25Aug2024 21:41:02.822] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=540, y=131, z=1279} of type barracks
 [25Aug2024 21:41:53.487] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
 [25Aug2024 21:46:14.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 21:51:02.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius moved too quickly! 10.50988833320389,0.11034343461091112,2.4445989838854985
+[25Aug2024 21:54:04.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[25Aug2024 21:54:04.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius moved too quickly! 1.584044537234945,0.0,-10.159222204014668
+[25Aug2024 21:56:45.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 21:57:13.873] [Server thread/WARN] [minecolonies/]: AdjustSkillCitizenMessage citizenData is null
+[25Aug2024 21:57:14.092] [Server thread/WARN] [minecolonies/]: AdjustSkillCitizenMessage citizenData is null
+[25Aug2024 21:59:04.627] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=540, y=131, z=1296} of type barrackstower
+[25Aug2024 21:59:07.329] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=556, y=131, z=1296} of type barracks
+[25Aug2024 21:59:37.373] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=548, y=131, z=1288} of type barracks
