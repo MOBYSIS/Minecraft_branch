@@ -3233,3 +3233,8 @@ Villager Trade Enabled: true
 [25Aug2024 17:19:52.526] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4b2eef55
 [25Aug2024 17:27:40.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
 [25Aug2024 17:41:36.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 17:54:52.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 17:56:09.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]
+[25Aug2024 17:56:27.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
+[25Aug2024 17:57:56.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]
+[25Aug2024 17:58:57.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
