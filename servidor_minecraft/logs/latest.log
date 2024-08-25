@@ -3352,3 +3352,6 @@ java.io.FileNotFoundException: null
 [25Aug2024 21:59:04.627] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=540, y=131, z=1296} of type barrackstower
 [25Aug2024 21:59:07.329] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=556, y=131, z=1296} of type barracks
 [25Aug2024 21:59:37.373] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=548, y=131, z=1288} of type barracks
+[25Aug2024 22:12:35.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 22:20:15.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Another Mouth to Feed]
+[25Aug2024 22:20:41.324] [Server thread/ERROR] [minecolonies/]: Friend
