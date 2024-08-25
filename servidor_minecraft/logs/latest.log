@@ -2728,3 +2728,7 @@ Villager Trade Enabled: true
 [25Aug2024 23:43:24.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr joined the game
 [25Aug2024 23:43:24.774] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: olyverr
 [25Aug2024 23:43:27.746] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/4464, l='ServerLevel[world]', x=503.53, y=162.00, z=866.24]
+[25Aug2024 23:49:18.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]
+[25Aug2024 23:49:33.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
+[25Aug2024 23:53:46.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]
+[25Aug2024 23:54:23.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
