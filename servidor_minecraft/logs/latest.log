@@ -3360,3 +3360,6 @@ java.io.FileNotFoundException: null
 [25Aug2024 22:38:49.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
 [25Aug2024 22:39:48.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]
 [25Aug2024 22:59:16.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
+[25Aug2024 23:16:03.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]
+[25Aug2024 23:22:38.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius lost connection: Disconnected
+[25Aug2024 23:22:38.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius left the game
