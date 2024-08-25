@@ -3199,3 +3199,7 @@ Villager Trade Enabled: true
 [25Aug2024 15:33:07.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr joined the game
 [25Aug2024 15:33:07.323] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: olyverr
 [25Aug2024 15:35:02.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
+[25Aug2024 15:36:52.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Gamerule doWeatherCycle is now set to: false]
+[25Aug2024 15:36:58.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 15:37:50.530] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[25Aug2024 15:44:10.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Getting an Upgrade]
