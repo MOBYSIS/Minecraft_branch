@@ -3282,3 +3282,8 @@ Villager Trade Enabled: true
 [25Aug2024 20:03:01.028] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
 [25Aug2024 20:03:26.827] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
 [25Aug2024 20:05:28.423] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=653, y=120, z=1160} of type builder
+[25Aug2024 20:06:56.427] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 99 recipes!
+[25Aug2024 20:08:10.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the time to 1000]
+[25Aug2024 20:10:43.880] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[25Aug2024 20:12:53.688] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=680, y=125, z=1165} of type lumberjack
+[25Aug2024 20:15:39.524] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
