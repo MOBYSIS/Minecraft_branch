@@ -3049,3 +3049,17 @@ Villager Trade Enabled: true
 [25Aug2024 12:50:51.175] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [25Aug2024 12:54:42.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius fell from a high place
 [25Aug2024 12:54:43.765] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[25Aug2024 13:14:23.374] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6387efb0[id=<null>,name=olyverr,properties={},legacy=false] (/127.86.91.218:33899) lost connection: Disconnected
+[25Aug2024 13:17:26.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius lost connection: Disconnected
+[25Aug2024 13:17:26.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius left the game
+[25Aug2024 13:20:20.763] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c4da889
+[25Aug2024 13:20:20.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mobyius[/127.191.210.247:57361] logged in with entity id 10257 at (574.7603887586386, 117.0, 1182.606330290114)
+[25Aug2024 13:20:20.840] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mobyius
+[25Aug2024 13:20:20.841] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mobyius
+[25Aug2024 13:20:20.841] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mobyius
+[25Aug2024 13:20:20.842] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mobyius
+[25Aug2024 13:20:20.845] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mobyius
+[25Aug2024 13:20:20.849] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mobyius
+[25Aug2024 13:20:20.849] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mobyius
+[25Aug2024 13:20:21.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius joined the game
+[25Aug2024 13:20:21.413] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mobyius
