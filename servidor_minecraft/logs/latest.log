@@ -3124,3 +3124,24 @@ Villager Trade Enabled: true
 [25Aug2024 13:48:51.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Ice Bucket Challenge]
 [25Aug2024 13:50:25.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr was slain by Zombie
 [25Aug2024 13:50:27.185] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[25Aug2024 13:53:48.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the weather to clear]
+[25Aug2024 13:53:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[25Aug2024 13:54:39.984] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Father Perry'/35476, l='ServerLevel[world]', x=743.30, y=41.00, z=1539.57] died: Father Perry was slain by olyverr
+[25Aug2024 13:54:40.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has completed the challenge [He Wasn't So Strong]
+[25Aug2024 13:54:51.258] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[25Aug2024 13:55:45.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Totally Tubular Transfer]
+[25Aug2024 13:55:46.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Howling Blades]
+[25Aug2024 13:58:24.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set own game mode to Spectator Mode]
+[25Aug2024 13:58:41.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set own game mode to Survival Mode]
+[25Aug2024 13:59:34.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the weather to clear]
+[25Aug2024 14:01:45.511] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[25Aug2024 14:01:55.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=613, y=118, z=1200} BlockPos{x=616, y=117, z=1200}
+[25Aug2024 14:01:55.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=613, y=118, z=1200} BlockPos{x=616, y=117, z=1200}
+[25Aug2024 14:01:55.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=613, y=118, z=1200} BlockPos{x=616, y=117, z=1200}
+[25Aug2024 14:01:55.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=613, y=118, z=1200} BlockPos{x=616, y=117, z=1200}
+[25Aug2024 14:01:55.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=613, y=118, z=1200} BlockPos{x=616, y=117, z=1200}
+[25Aug2024 14:01:55.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=613, y=118, z=1200} BlockPos{x=616, y=117, z=1200}
+[25Aug2024 14:01:55.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=613, y=118, z=1200} BlockPos{x=616, y=117, z=1200}
+[25Aug2024 14:01:55.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=613, y=118, z=1200} BlockPos{x=616, y=117, z=1200}
+[25Aug2024 14:02:12.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has reached the goal [Build a Builder Building]
+[25Aug2024 14:02:12.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has reached the goal [Build a Builder Building]
