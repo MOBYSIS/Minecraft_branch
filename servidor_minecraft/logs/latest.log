@@ -3278,3 +3278,7 @@ Villager Trade Enabled: true
 [25Aug2024 19:41:17.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
 [25Aug2024 19:48:42.579] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
 [25Aug2024 19:52:20.332] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[25Aug2024 19:57:33.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the time to 1000]
+[25Aug2024 20:03:01.028] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[25Aug2024 20:03:26.827] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[25Aug2024 20:05:28.423] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=653, y=120, z=1160} of type builder
