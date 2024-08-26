@@ -17,3 +17,4 @@
 [26Aug2024 01:11:22.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has reached the goal [Hamlet]
 [26Aug2024 01:16:38.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
 [26Aug2024 01:26:05.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[26Aug2024 01:29:37.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
