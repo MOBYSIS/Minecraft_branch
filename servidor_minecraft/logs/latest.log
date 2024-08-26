@@ -12,3 +12,7 @@
 [26Aug2024 01:03:42.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
 [26Aug2024 01:04:51.613] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=545, y=120, z=1164} of type guardtower
 [26Aug2024 01:07:04.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius moved too quickly! 10.407465890594494,0.03807125854720539,-2.1163494305610584
+[26Aug2024 01:08:19.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: olyverr lost connection: Disconnected
+[26Aug2024 01:08:19.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr left the game
+[26Aug2024 01:11:22.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has reached the goal [Hamlet]
+[26Aug2024 01:16:38.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
