@@ -8,3 +8,7 @@
 [26Aug2024 00:23:15.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
 [26Aug2024 00:24:37.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]
 [26Aug2024 00:32:04.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the time to 1000]
+[26Aug2024 01:02:04.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius moved too quickly! -10.534955270657974,0.0,0.27024016664699957
+[26Aug2024 01:03:42.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[26Aug2024 01:04:51.613] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=545, y=120, z=1164} of type guardtower
+[26Aug2024 01:07:04.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius moved too quickly! 10.407465890594494,0.03807125854720539,-2.1163494305610584
