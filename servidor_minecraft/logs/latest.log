@@ -2974,3 +2974,12 @@ java.lang.Exception: null
 [07Sep2024 14:44:45.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius joined the game
 [07Sep2024 14:44:45.715] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mobyius
 [07Sep2024 14:49:15.760] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[07Sep2024 14:49:26.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Teleported Mobyius to olyverr]
+[07Sep2024 14:52:28.694] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate NamedSet(TagKey[minecraft:worldgen/structure / blue_skies:gatekeeper_houses])[[Reference{ResourceKey[minecraft:worldgen/structure / blue_skies:gatekeeper_house_mountain]=com.legacy.structure_gel.api.structure.ExtendedJigsawStructure@4fe9f313}, Reference{ResourceKey[minecraft:worldgen/structure / blue_skies:gatekeeper_house_plains]=com.legacy.structure_gel.api.structure.ExtendedJigsawStructure@1d057fec}, Reference{ResourceKey[minecraft:worldgen/structure / blue_skies:gatekeeper_house_snowy]=com.legacy.structure_gel.api.structure.ExtendedJigsawStructure@40528525}]] in ServerLevel[world] around BlockPos{x=1034, y=68, z=1134} within 100 chunks
+[07Sep2024 14:52:28.789] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found ExtendedJigsawStructure at BlockPos{x=544, y=0, z=592} (took 94ms)
+[07Sep2024 14:52:28.798] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - sending success back to command source
+[07Sep2024 14:52:41.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Teleported Mobyius to 544.500000, 68.000000, 592.500000]
+[07Sep2024 14:53:19.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Spectator Mode]
+[07Sep2024 14:53:44.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
+[07Sep2024 14:58:05.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]
+[07Sep2024 14:59:37.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
