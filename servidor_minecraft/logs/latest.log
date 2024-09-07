@@ -2735,3 +2735,10 @@ Villager Trade Enabled: true
 [07Sep2024 12:29:38.908] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mobyius
 [07Sep2024 12:29:39.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius joined the game
 [07Sep2024 12:29:39.336] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mobyius
+[07Sep2024 12:34:23.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius moved too quickly! 6.437781736489569,2.6477009036332504,-7.187574480366948
+[07Sep2024 12:34:23.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2288ms or 45 ticks behind
+[07Sep2024 12:37:09.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2826ms or 56 ticks behind
+[07Sep2024 12:38:09.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Teleported olyverr to Mobyius]
+[07Sep2024 12:41:22.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[07Sep2024 12:41:40.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: 2 entities killed]
+[07Sep2024 12:43:40.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
