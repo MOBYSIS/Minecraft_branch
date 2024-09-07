@@ -2929,3 +2929,22 @@ java.lang.Exception: null
 [07Sep2024 14:05:56.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
 [07Sep2024 14:07:03.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: The difficulty has been set to Peaceful]
 [07Sep2024 14:07:07.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: The difficulty has been set to Normal]
+[07Sep2024 14:07:57.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Teleported Mobyius to olyverr]
+[07Sep2024 14:11:03.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius was kicked for floating too long!
+[07Sep2024 14:11:03.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius lost connection: Flying is not enabled on this server
+[07Sep2024 14:11:03.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius left the game
+[07Sep2024 14:11:03.888] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Sep2024 14:11:45.614] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b92034b
+[07Sep2024 14:11:45.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mobyius[/127.126.187.56:52737] logged in with entity id 64110 at (1033.8451666761457, 69.16610926093821, 1153.980309897481)
+[07Sep2024 14:11:45.670] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mobyius
+[07Sep2024 14:11:45.670] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mobyius
+[07Sep2024 14:11:45.670] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mobyius
+[07Sep2024 14:11:45.670] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mobyius
+[07Sep2024 14:11:45.672] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mobyius
+[07Sep2024 14:11:45.673] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mobyius
+[07Sep2024 14:11:45.673] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mobyius
+[07Sep2024 14:11:45.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius joined the game
+[07Sep2024 14:11:46.058] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mobyius
+[07Sep2024 14:13:29.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]
+[07Sep2024 14:13:50.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
+[07Sep2024 14:14:56.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Teleported Mobyius to olyverr]
