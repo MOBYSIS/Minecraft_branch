@@ -2713,3 +2713,25 @@ Villager Trade Enabled: true
 [07Sep2024 12:08:04.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius lost connection: Disconnected
 [07Sep2024 12:08:04.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius left the game
 [07Sep2024 12:09:20.943] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 100 recipes!
+[07Sep2024 12:27:21.810] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10c02c9c
+[07Sep2024 12:27:21.877] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: olyverr[/127.86.91.218:48481] logged in with entity id 3325 at (684.1481848257695, 155.95339498830128, 1038.8479623853636)
+[07Sep2024 12:27:21.919] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to olyverr
+[07Sep2024 12:27:21.919] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to olyverr
+[07Sep2024 12:27:21.920] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to olyverr
+[07Sep2024 12:27:21.920] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to olyverr
+[07Sep2024 12:27:21.923] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to olyverr
+[07Sep2024 12:27:21.933] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to olyverr
+[07Sep2024 12:27:21.933] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to olyverr
+[07Sep2024 12:27:22.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr joined the game
+[07Sep2024 12:27:22.711] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: olyverr
+[07Sep2024 12:29:38.821] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@477ebd95
+[07Sep2024 12:29:38.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mobyius[/127.126.187.56:49769] logged in with entity id 6582 at (783.5899687870228, 128.32453471653955, 1350.2346579236396)
+[07Sep2024 12:29:38.900] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mobyius
+[07Sep2024 12:29:38.901] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mobyius
+[07Sep2024 12:29:38.901] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mobyius
+[07Sep2024 12:29:38.901] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mobyius
+[07Sep2024 12:29:38.905] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mobyius
+[07Sep2024 12:29:38.908] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mobyius
+[07Sep2024 12:29:38.908] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mobyius
+[07Sep2024 12:29:39.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius joined the game
+[07Sep2024 12:29:39.336] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mobyius
