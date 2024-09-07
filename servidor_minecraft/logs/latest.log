@@ -2989,3 +2989,5 @@ java.lang.Exception: null
 [07Sep2024 15:05:41.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Fluix Energy Connection]
 [07Sep2024 15:07:36.558] [Server thread/INFO] [AE2:S/]: Assigning ME player id 0 to Minecraft profile 28d3676d-328a-319e-bd60-a237418acf9f (olyverr)
 [07Sep2024 15:09:51.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [A (Much) Bigger Table]
+[07Sep2024 15:10:38.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [We Need to Go Deeper]
+[07Sep2024 15:10:38.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5610ms or 112 ticks behind
