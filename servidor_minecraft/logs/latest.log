@@ -2742,3 +2742,12 @@ Villager Trade Enabled: true
 [07Sep2024 12:41:22.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
 [07Sep2024 12:41:40.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: 2 entities killed]
 [07Sep2024 12:43:40.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[07Sep2024 12:44:31.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius moved too quickly! 10.049444952686258,0.0,1.5914859121764948
+[07Sep2024 12:45:31.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [When in Rome]
+[07Sep2024 12:47:46.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[07Sep2024 12:47:57.117] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=859, y=335, z=1194} but found not block entity block Block{minecraft:air} at location
+[07Sep2024 12:47:57.118] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=859, y=335, z=1194}
+[07Sep2024 12:50:07.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Configure Everything]
+[07Sep2024 12:51:14.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Your First Generator]
+[07Sep2024 12:52:19.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Hot Stuff]
+[07Sep2024 12:53:34.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has reached the goal [The Factory Must Grow!]
