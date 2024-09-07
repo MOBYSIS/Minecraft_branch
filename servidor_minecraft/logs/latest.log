@@ -2899,3 +2899,4 @@ Villager Trade Enabled: true
 [07Sep2024 13:32:22.677] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mobyius
 [07Sep2024 13:32:22.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius joined the game
 [07Sep2024 13:32:22.985] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mobyius
+[07Sep2024 13:42:42.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Quantum Entanglement]
