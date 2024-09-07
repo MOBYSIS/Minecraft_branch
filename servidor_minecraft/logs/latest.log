@@ -2756,3 +2756,120 @@ Villager Trade Enabled: true
 [07Sep2024 13:07:37.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has reached the goal [Trapped Inside]
 [07Sep2024 13:12:22.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32686, l='ServerLevel[world]', x=951.13, y=107.00, z=952.43] died, message: 'Villager was slain by Zombie'
 [07Sep2024 13:14:02.956] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@354b2bd7
+[07Sep2024 13:17:21.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Gave 1    [Anchor Upgrade] to Mobyius]
+[07Sep2024 13:20:51.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius moved too quickly! 9.192495478003707,3.7499836104447297,3.0437666120631093
+[07Sep2024 13:22:00.877] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=640, y=121, z=1218} of type warehouse
+[07Sep2024 13:22:06.687] [Server thread/INFO] [minecolonies/]: Removing citizens for 1
+[07Sep2024 13:22:06.687] [Server thread/INFO] [minecolonies/]: Kill Citizen Victoria E. Jones
+[07Sep2024 13:22:06.691] [Server thread/INFO] [minecolonies/]: Kill Citizen Manuel T. Hambard
+[07Sep2024 13:22:06.694] [Server thread/INFO] [minecolonies/]: Kill Citizen Maximo X. Ginter
+[07Sep2024 13:22:06.696] [Server thread/INFO] [minecolonies/]: Kill Citizen Rylie L. Wallgreen
+[07Sep2024 13:22:06.698] [Server thread/INFO] [minecolonies/]: Kill Citizen Ernesto G. Hambard
+[07Sep2024 13:22:06.700] [Server thread/INFO] [minecolonies/]: Kill Citizen Malia I. Gomershall
+[07Sep2024 13:22:06.711] [Server thread/INFO] [minecolonies/]: Kill Citizen Luca
+[07Sep2024 13:22:06.712] [Server thread/INFO] [minecolonies/]: Kill Citizen Carlos B. Aynesworth
+[07Sep2024 13:22:06.713] [Server thread/INFO] [minecolonies/]: Kill Citizen Tinsley I. Aynesworth
+[07Sep2024 13:22:06.714] [Server thread/INFO] [minecolonies/]: Kill Citizen Jaycee H. McGee
+[07Sep2024 13:22:06.716] [Server thread/INFO] [minecolonies/]: Kill Citizen Caspian H. Greville
+[07Sep2024 13:22:06.717] [Server thread/INFO] [minecolonies/]: Kill Citizen Jadiel O. Glover
+[07Sep2024 13:22:06.719] [Server thread/INFO] [minecolonies/]: Kill Citizen Marshall W. Aylmer
+[07Sep2024 13:22:06.720] [Server thread/INFO] [minecolonies/]: Kill Citizen Colter G. Aynesworth
+[07Sep2024 13:22:06.721] [Server thread/INFO] [minecolonies/]: Kill Citizen Regina C. Gibbs
+[07Sep2024 13:22:06.724] [Server thread/INFO] [minecolonies/]: Kill Citizen Abdiel M. Audlington
+[07Sep2024 13:22:06.727] [Server thread/INFO] [minecolonies/]: Kill Citizen Tinley A. Goodenouth
+[07Sep2024 13:22:06.728] [Server thread/INFO] [minecolonies/]: Kill Citizen Ty G. Bammard
+[07Sep2024 13:22:06.729] [Server thread/INFO] [minecolonies/]: Kill Citizen Aila G. Aynesworth
+[07Sep2024 13:22:06.730] [Server thread/INFO] [minecolonies/]: Kill Citizen Viviana T. LaClair
+[07Sep2024 13:22:06.731] [Server thread/INFO] [minecolonies/]: Kill Citizen Harmony R. Brown
+[07Sep2024 13:22:06.733] [Server thread/INFO] [minecolonies/]: Kill Citizen Edu
+[07Sep2024 13:22:06.734] [Server thread/INFO] [minecolonies/]: Kill Citizen Trace C. Wallgreen
+[07Sep2024 13:22:06.735] [Server thread/INFO] [minecolonies/]: Removing buildings for 1
+[07Sep2024 13:22:06.736] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=580, y=117, z=1186}
+[07Sep2024 13:22:06.764] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=580, y=117, z=1186} of type townhall
+[07Sep2024 13:22:06.765] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=584, y=118, z=1208}
+[07Sep2024 13:22:06.781] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=584, y=118, z=1208} of type builder
+[07Sep2024 13:22:06.782] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=630, y=117, z=1179}
+[07Sep2024 13:22:06.801] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=630, y=117, z=1179} of type tavern
+[07Sep2024 13:22:06.801] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=623, y=119, z=1201}
+[07Sep2024 13:22:06.812] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=623, y=119, z=1201} of type miner
+[07Sep2024 13:22:06.813] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=544, y=120, z=1145}
+[07Sep2024 13:22:06.816] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=544, y=120, z=1145} of type fisherman
+[07Sep2024 13:22:06.817] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=640, y=118, z=1187}
+[07Sep2024 13:22:06.823] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=640, y=118, z=1187} of type guardtower
+[07Sep2024 13:22:06.824] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=562, y=118, z=1181}
+[07Sep2024 13:22:06.831] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=562, y=118, z=1181} of type farmer
+[07Sep2024 13:22:06.832] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=609, y=124, z=1253}
+[07Sep2024 13:22:06.845] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=609, y=124, z=1253} of type residence
+[07Sep2024 13:22:06.846] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=676, y=125, z=1157}
+[07Sep2024 13:22:06.849] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=676, y=125, z=1157} of type lumberjack
+[07Sep2024 13:22:06.849] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=539, y=122, z=1183}
+[07Sep2024 13:22:06.874] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=539, y=122, z=1183} of type hospital
+[07Sep2024 13:22:06.875] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=679, y=123, z=1186}
+[07Sep2024 13:22:06.890] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=679, y=123, z=1186} of type cowboy
+[07Sep2024 13:22:06.890] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=650, y=127, z=1250}
+[07Sep2024 13:22:06.952] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=650, y=127, z=1250} of type chickenherder
+[07Sep2024 13:22:06.953] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=597, y=125, z=1279}
+[07Sep2024 13:22:06.966] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=597, y=125, z=1279} of type swineherder
+[07Sep2024 13:22:06.966] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=521, y=128, z=1219}
+[07Sep2024 13:22:06.979] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=521, y=128, z=1219} of type residence
+[07Sep2024 13:22:06.980] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=516, y=130, z=1138}
+[07Sep2024 13:22:07.007] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=516, y=130, z=1138} of type plantation
+[07Sep2024 13:22:07.008] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=515, y=128, z=1181}
+[07Sep2024 13:22:07.032] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=515, y=128, z=1181} of type residence
+[07Sep2024 13:22:07.033] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=498, y=134, z=1220}
+[07Sep2024 13:22:07.048] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=498, y=134, z=1220} of type residence
+[07Sep2024 13:22:07.048] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=485, y=137, z=1243}
+[07Sep2024 13:22:07.053] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=485, y=137, z=1243} of type barrackstower
+[07Sep2024 13:22:07.053] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=513, y=133, z=1261}
+[07Sep2024 13:22:07.059] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=513, y=133, z=1261} of type guardtower
+[07Sep2024 13:22:07.060] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=675, y=120, z=1221}
+[07Sep2024 13:22:07.105] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=675, y=120, z=1221} of type cook
+[07Sep2024 13:22:07.106] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=617, y=128, z=1289}
+[07Sep2024 13:22:07.112] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=617, y=128, z=1289} of type deliveryman
+[07Sep2024 13:22:07.112] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=693, y=125, z=1161}
+[07Sep2024 13:22:07.124] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=693, y=125, z=1161} of type residence
+[07Sep2024 13:22:07.124] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=598, y=125, z=1302}
+[07Sep2024 13:22:07.136] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=598, y=125, z=1302} of type residence
+[07Sep2024 13:22:07.136] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=581, y=118, z=1139}
+[07Sep2024 13:22:07.143] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=581, y=118, z=1139} of type farmer
+[07Sep2024 13:22:07.143] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=702, y=123, z=1195}
+[07Sep2024 13:22:07.154] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=702, y=123, z=1195} of type residence
+[07Sep2024 13:22:07.155] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=703, y=122, z=1217}
+[07Sep2024 13:22:07.164] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=703, y=122, z=1217} of type builder
+[07Sep2024 13:22:07.164] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=489, y=138, z=1282}
+[07Sep2024 13:22:07.224] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=489, y=138, z=1282} of type university
+[07Sep2024 13:22:07.224] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=665, y=126, z=1272}
+[07Sep2024 13:22:07.243] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=665, y=126, z=1272} of type florist
+[07Sep2024 13:22:07.243] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=467, y=140, z=1269}
+[07Sep2024 13:22:07.250] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=467, y=140, z=1269} of type residence
+[07Sep2024 13:22:07.250] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=450, y=138, z=1294}
+[07Sep2024 13:22:07.255] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=450, y=138, z=1294} of type composter
+[07Sep2024 13:22:07.255] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=451, y=143, z=1256}
+[07Sep2024 13:22:07.259] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=451, y=143, z=1256} of type composter
+[07Sep2024 13:22:07.259] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=472, y=139, z=1233}
+[07Sep2024 13:22:07.266] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=472, y=139, z=1233} of type residence
+[07Sep2024 13:22:07.266] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=481, y=137, z=1208}
+[07Sep2024 13:22:07.274] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=481, y=137, z=1208} of type residence
+[07Sep2024 13:22:07.274] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=634, y=126, z=1270}
+[07Sep2024 13:22:07.286] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=634, y=126, z=1270} of type residence
+[07Sep2024 13:22:07.286] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=612, y=115, z=1152}
+[07Sep2024 13:22:07.291] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=612, y=115, z=1152} of type guardtower
+[07Sep2024 13:22:07.291] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=718, y=120, z=1216}
+[07Sep2024 13:22:07.300] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=718, y=120, z=1216} of type residence
+[07Sep2024 13:22:07.300] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=680, y=124, z=1246}
+[07Sep2024 13:22:07.307] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=680, y=124, z=1246} of type deliveryman
+[07Sep2024 13:22:07.308] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=542, y=131, z=1279}
+[07Sep2024 13:22:07.326] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=542, y=131, z=1279} of type residence
+[07Sep2024 13:22:07.326] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=545, y=120, z=1164}
+[07Sep2024 13:22:07.330] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=545, y=120, z=1164} of type guardtower
+[07Sep2024 13:22:07.330] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=488, y=133, z=1185}
+[07Sep2024 13:22:07.345] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=488, y=133, z=1185} of type residence
+[07Sep2024 13:22:07.346] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=697, y=123, z=1232}
+[07Sep2024 13:22:07.375] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=697, y=123, z=1232} of type residence
+[07Sep2024 13:22:07.375] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=682, y=124, z=1275}
+[07Sep2024 13:22:07.384] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=682, y=124, z=1275} of type barrackstower
+[07Sep2024 13:22:07.384] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=527, y=129, z=1241}
+[07Sep2024 13:22:07.390] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=527, y=129, z=1241} of type builder
+[07Sep2024 13:22:07.396] [Server thread/INFO] [minecolonies/]: Deleting colony: 1
+[07Sep2024 13:22:07.396] [Server thread/INFO] [minecolonies/]: Successfully deleted colony: 1
+[07Sep2024 13:22:07.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Created backup and deleted colony Colônia de Mobyius.]
