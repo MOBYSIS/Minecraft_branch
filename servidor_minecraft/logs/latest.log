@@ -2900,3 +2900,21 @@ Villager Trade Enabled: true
 [07Sep2024 13:32:22.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius joined the game
 [07Sep2024 13:32:22.985] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mobyius
 [07Sep2024 13:42:42.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Quantum Entanglement]
+[07Sep2024 13:53:58.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Gave 1    [Anchor Upgrade] to Mobyius]
+[07Sep2024 13:54:25.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Gave 4    [Anchor Upgrade] to Mobyius]
+[07Sep2024 13:55:24.830] [Server thread/ERROR] [mekanism.common.Mekanism/]: Stack size changed by a different amount (7998) than requested (8000).
+java.lang.Exception: null
+	at mekanism.common.util.MekanismUtils.logMismatchedStackSize(MekanismUtils.java:126) ~[Mekanism-1.19.2-10.3.9.13.jar%23688!/:10.3.9]
+	at mekanism.common.content.network.transmitter.MechanicalPipe.takeShare(MechanicalPipe.java:228) ~[Mekanism-1.19.2-10.3.9.13.jar%23688!/:10.3.9]
+	at mekanism.common.tile.transmitter.TileEntityTransmitter.chunkAccessibilityChange(TileEntityTransmitter.java:194) ~[Mekanism-1.19.2-10.3.9.13.jar%23688!/:10.3.9]
+	at mekanism.common.lib.transmitter.TransmitterNetworkRegistry.handleChangedChunks(TransmitterNetworkRegistry.java:183) ~[Mekanism-1.19.2-10.3.9.13.jar%23688!/:10.3.9]
+	at mekanism.common.lib.transmitter.TransmitterNetworkRegistry.onTick(TransmitterNetworkRegistry.java:130) ~[Mekanism-1.19.2-10.3.9.13.jar%23688!/:10.3.9]
+	at mekanism.common.lib.transmitter.__TransmitterNetworkRegistry_onTick_ServerTickEvent.invoke(.dynamic) ~[Mekanism-1.19.2-10.3.9.13.jar%23688!/:10.3.9]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPostServerTick(ForgeEventFactory.java:849) ~[forge-1.19.2-43.3.0-universal.jar%23854!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:843) ~[server-1.19.2-20220805.130853-srg.jar%23849!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23849!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23849!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
