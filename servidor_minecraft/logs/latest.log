@@ -2751,3 +2751,8 @@ Villager Trade Enabled: true
 [07Sep2024 12:51:14.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Your First Generator]
 [07Sep2024 12:52:19.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Hot Stuff]
 [07Sep2024 12:53:34.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has reached the goal [The Factory Must Grow!]
+[07Sep2024 13:06:13.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has reached the goal [Burn the Gas]
+[07Sep2024 13:07:34.033] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/37910, l='ServerLevel[world]', x=1110.35, y=99.28, z=1101.61] died: Honeyed Archer suffocated in a wall
+[07Sep2024 13:07:37.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has reached the goal [Trapped Inside]
+[07Sep2024 13:12:22.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32686, l='ServerLevel[world]', x=951.13, y=107.00, z=952.43] died, message: 'Villager was slain by Zombie'
+[07Sep2024 13:14:02.956] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@354b2bd7
